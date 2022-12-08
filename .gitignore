@@ -13,3 +13,4 @@ Dockerfile
 
 # Used by pytest
 tests/__pycache__/
+Testmanu
